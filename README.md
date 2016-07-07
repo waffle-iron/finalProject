@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/olds1423/finalProject.png?label=ready&title=Ready)](https://waffle.io/olds1423/finalProject)
 # finalProject
 
 Name for the project: LeaseGeese RentIntent MentalRental
